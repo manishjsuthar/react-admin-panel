@@ -1,0 +1,15 @@
+@media screen and (max-width: 700px){
+    .xmen{
+        display: flex;
+        align-items: left;
+        margin: 0%;    
+    }
+    .btn{
+        
+        margin-right: 2px;
+    }
+    .ymen{
+        display:inline-flex
+
+    }
+}
